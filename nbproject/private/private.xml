@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/LogoutServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/RegisteServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/model/Cart.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/dao/CartDao.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/editProduct.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/infor.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/CheckOutServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/LoginServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/model/Order.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/OrderNowServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/head.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/productDetail.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/DeleteProductServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/ladies-jeans.jpg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/femalewatch.jpg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/ProductDetailServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/stat.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/dao/UserDao.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/dao/ProductDao.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/navbar.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/products.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/AddProductServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/AddToCartServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/dao/OrderDao.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/AcceptServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/orders.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/footer.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/html/foot.html</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/cart.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/EditProductServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/login.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/logo.jpeg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/model/Product.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/css/style.css</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/ladis-bag.jpg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/addProduct.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/index.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/CancelOrderServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/carousel.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/arrival.jpg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/registe.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/model/User.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/ordersAdmin.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/includes/js/script.js</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/productsAdmin.jsp</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/connection/DbCon.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/RemoveFromCartServlet.java</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/web/product-image/jeans.jpg</file>
+            <file>file:/Users/nguyenhonganh/NetBeansProjects/BTLWEB/src/java/val/shop/servlet/QuantityIncDecServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
